@@ -1,0 +1,26 @@
+#mainDiv{
+    display: flex;
+}
+#addDiv,#updateDiv,#deleteDiv{
+    display: block;
+}
+#addDiv{
+    padding-left: 80px;
+}
+#deleteDiv{
+    padding-right: 80px;
+}
+#displayTable{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#tablecaption,.formHead{
+    text-align: center;
+}
+#formContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
